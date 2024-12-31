@@ -3,9 +3,3 @@
 @foreach($data as $just)
 <p>{{$just->name}} {{$just->email}}</p> <br>
 @endforeach
-
-<?php
-echo 'hello';
-echo 'testing commit';
-
-?>
